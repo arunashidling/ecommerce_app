@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">Featured Items</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_login">WallMart</string>
+    <string name="country_prompt">Choose a Country</string>
+    <string-array name="country_array">
+        <item>United States</item>
+        <item>India</item>
+        <item>Canada</item>
+        <item>Maxico</item>
+    </string-array>
+
+    <string name="state_prompts">Choose a State</string>
+    <string-array name="indian_state_array">
+        <item>Karnataka</item>
+        <item>AndraPradesh</item>
+        <item>TamilNadu</item>
+
+    </string-array>
+
+    <string-array name="us_state_array">
+        <item>US State 1</item>
+        <item>US State 2</item>
+        <item>US State 3</item>
+
+    </string-array>
+
+    <string name="babypink">babypink</string>
+    <string name="apply">Apply</string>
+    <string name="categories_prompt">Categories</string>
+    <string name="title_activity_product_deatils">ProductDeatils</string>
+</resources>
